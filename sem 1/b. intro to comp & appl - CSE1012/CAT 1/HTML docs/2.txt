@@ -1,0 +1,76 @@
+<html>
+<head>
+<title> MSc Integrated CS&DA</title></head>
+<body bgcolor="cyan">
+<h1>MSc Integrated CS&DA</h1>
+This course is offered by VIT.
+<img src=shorturl.at/hyCD1>
+<pre>          Comes under SAS</pre>
+<p>This is a 5 year integrated course. Classes at SJT407. Eligibility criteria: Mathematics
+and Computer science in 12th grade.</p>
+<font size=+2, color="black"><b><u>STUDENTS</u></b>
+<ol type="A">
+<li>From roll no.: 5</ol>
+<ol start="5"  type="I">
+<li>Reba
+<li>Shriya
+<li>Priya
+<li>Porkavi
+</ol>
+<ul>
+<li>Boys</ul>
+<ul>
+<li>Thanush
+<li>Johny
+<li>Karun
+<li>Madhesh
+<li>Aravind
+<li>Ram
+</ul>
+<h2> Subjects</h2>
+<table border="3">
+<tr>
+<th>math subjects</th>
+<th>non math subjects</th>
+</tr>
+<td>statistics</td>
+<td>english</td>
+</tr>
+<tr>
+<td>probability</td>
+<td>evs</td>
+</tr>
+<tr>
+<td>maths</td>
+<td>computer</td>
+</tr>
+</table>
+<h3><u>Description of subjects</u></h3>
+<dl>
+<dt>statistics</dt>
+<dd>mean,median,mode</dd>
+<dt>maths</dt>
+<dd>matrices</dd>
+</dl>
+<form>
+<h4>Please enter your details for updates.</h4>
+Name:
+<input type="text" name="name">
+<br>
+Are you interested in this course?
+<br>
+<input type="radio" name="choice" value="yes">YES
+<br>
+<input type="radio" name="choice" value="no">NO
+<br>
+<input type="checkbox" name="apply"> I have applied
+<br>
+<input type="checkbox" name="apply"> I have not applied
+</form></font>
+<font color="brown"><b><i>FOR FURTHER DETAILS VISIT</i></b>
+<a href="https://www.vit.ac.in">VIT WEBSITE</a>
+</font>
+</body>
+</html>
+
+
